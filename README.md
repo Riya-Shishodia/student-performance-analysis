@@ -27,6 +27,7 @@ Attendance
 Other academic and personal factors
 
 (Source: Kaggle Student Performance Dataset)
+Link: /kaggle/input/datasets/borovai0/student-performance-analytics-dataset/student_performance_data.csv
 
 🔄 Project Workflow
 Data Loading
