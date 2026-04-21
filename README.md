@@ -1,5 +1,6 @@
 # student-performance-analysis
 Exploratory data analysis and machine learning project on student performance dataset using Python, Pandas, Matplotlib, focusing on data cleaning, visualization, and prediction.
+
 Student Performance Analysis & Prediction
 📌 Overview
 
@@ -15,7 +16,6 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
-Scikit-learn
 Jupyter Notebook
 📂 Dataset
 
@@ -35,16 +35,16 @@ Exploratory Data Analysis (EDA)
 Feature Engineering
 Data Visualization
 Machine Learning Model Building
+
 📈 Key Insights
 Study time has a strong impact on performance
 Attendance plays an important role in final scores
 Some features are highly correlated with academic outcomes
-🤖 Machine Learning Model
 
+🤖 Machine Learning Model
 A basic regression/classification model was used to predict student performance based on input features.
 
 📌 Results
-
 The model provides a basic understanding of performance trends and can be improved further with advanced techniques.
 
 🚀 Future Improvements
@@ -52,7 +52,7 @@ Try advanced ML models (Random Forest, XGBoost)
 Hyperparameter tuning
 Feature selection improvement
 Deploy as a web app
-👩‍💻 Author
 
-Your Name
-GitHub: (your GitHub link)
+👩‍💻 Author
+Riya Shishodia
+GitHub: https://github.com/Riya-Shishodia/student-performance-analysis
